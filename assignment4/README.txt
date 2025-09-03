@@ -1,5 +1,4 @@
 Aissatou Barry
-101 296 710
 
 //Overview
 This is a program that creates and manages different channels
